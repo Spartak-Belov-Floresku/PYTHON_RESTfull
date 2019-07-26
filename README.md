@@ -1,4 +1,4 @@
-# PYTHON_RESTfull
+# PYTHON_RESTful
 <h3>Download data from RESTful web server and convert to JSON file</h3>
 <ul>
   <li>Here, I demonstrate a helpful Python app</li>
